@@ -6,7 +6,7 @@
 #### 안드로이드스튜디오로 간단한 몬스터 죽이기 어플리케이션을 만들어서 안드로이드 프로그밍 접해보기
 
 #### <어플리케이션 UI>
-![Alt text](20180325멘토링UI.png)
+![Alt text](https://github.com/DSM-GRAM/TeamStudy/blob/master/androidMentoring/20180325%EB%A9%98%ED%86%A0%EB%A7%81UI.PNG)
 
 
 #### <기능>
